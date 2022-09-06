@@ -1,2 +1,2 @@
 #!/bin/bash
-Working on Shell Redirections
+Working on Shell Redirections chmod -v +x README.md
